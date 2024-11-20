@@ -1,10 +1,26 @@
+---
+layout: default
+title: EventShare Documentation
+---
+
 # EventShare Documentation
 
-Welcome to EventShare documentation. Here you can find important information about our app:
+EventShare, etkinliklerinizi arkadaşlarınızla paylaşmanın ve organize etmenin en kolay yolu!
 
-- [Privacy Policy](privacy_policy.md)
-- [Data Deletion Instructions](data_deletion.md)
+## Önemli Belgeler
 
-## About EventShare
+- [Gizlilik Politikası](privacy_policy.md)
+- [Veri Silme Talimatları](data_deletion.md)
 
-EventShare is a social event sharing mobile application that helps you discover, create, and share events with your friends and community.
+## Hakkında EventShare
+
+EventShare, arkadaşlarınız ve topluluğunuzla etkinlikler keşfetmenize, oluşturmanıza ve paylaşmanıza yardımcı olan bir sosyal etkinlik paylaşım mobil uygulamasıdır.
+
+## İletişim
+
+Herhangi bir sorunuz veya geri bildiriminiz için lütfen bize ulaşın:
+- E-posta: support@eventshare.app
+- Twitter: @EventShareApp
+
+---
+© 2024 EventShare. Tüm hakları saklıdır.
