@@ -1,4 +1,4 @@
-# Privacy Policy for EventShare
+# Privacy Policy for CarMate
 
 Last updated: [Current Date]
 
