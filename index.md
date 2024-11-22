@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EventShare Documentation
+title: CarMate Documentation
 ---
 
 # EventShare Documentation
@@ -12,15 +12,15 @@ EventShare, etkinliklerinizi arkadaşlarınızla paylaşmanın ve organize etmen
 - [Gizlilik Politikası](privacy_policy.md)
 - [Veri Silme Talimatları](data_deletion.md)
 
-## Hakkında EventShare
+## Hakkında CarMate
 
 EventShare, arkadaşlarınız ve topluluğunuzla etkinlikler keşfetmenize, oluşturmanıza ve paylaşmanıza yardımcı olan bir sosyal etkinlik paylaşım mobil uygulamasıdır.
 
 ## İletişim
 
 Herhangi bir sorunuz veya geri bildiriminiz için lütfen bize ulaşın:
-- E-posta: support@eventshare.app
-- Twitter: @EventShareApp
+- E-posta: support@carmate.app
+- Twitter: @CarMate
 
 ---
 © 2024 EventShare. Tüm hakları saklıdır.
