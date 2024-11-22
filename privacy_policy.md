@@ -3,7 +3,7 @@
 Last updated: [Current Date]
 
 ## 1. Introduction
-Welcome to EventShare. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
+Welcome to CarMate. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
 
 ## 2. Information We Collect
 ### 2.1 Personal Information
