@@ -1,9 +1,9 @@
-# Data Deletion Instructions for EventShare
+# Data Deletion Instructions for CarMate
 
 ## How to Delete Your Data
 
 ### 1. In-App Deletion
-1. Open the EventShare app
+1. Open the CarMate app
 2. Go to Settings
 3. Select "Account"
 4. Choose "Delete Account"
@@ -12,7 +12,7 @@
 ### 2. Email Request
 You can also request data deletion by:
 1. Sending an email to [Your Contact Email]
-2. Subject line: "Data Deletion Request - EventShare"
+2. Subject line: "Data Deletion Request - CarMate"
 3. Include your registered email address
 
 ### 3. What We Delete
