@@ -1,9 +1,9 @@
 ---
 layout: default
-title: CarMate Documentation
+title: OtoZ Documentation
 ---
 
-# CarMate Documentation
+# OtoZ Documentation
 
 EventShare, etkinliklerinizi arkadaşlarınızla paylaşmanın ve organize etmenin en kolay yolu!
 
@@ -12,15 +12,15 @@ EventShare, etkinliklerinizi arkadaşlarınızla paylaşmanın ve organize etmen
 - [Gizlilik Politikası](privacy_policy.md)
 - [Veri Silme Talimatları](data_deletion.md)
 
-## Hakkında CarMate
+## Hakkında OtoZ
 
-CarMate, arkadaşlarınız ve topluluğunuzla etkinlikler keşfetmenize, oluşturmanıza ve paylaşmanıza yardımcı olan bir sosyal etkinlik paylaşım mobil uygulamasıdır.
+OtoZ, arkadaşlarınız ve topluluğunuzla etkinlikler keşfetmenize, oluşturmanıza ve paylaşmanıza yardımcı olan bir sosyal etkinlik paylaşım mobil uygulamasıdır.
 
 ## İletişim
 
 Herhangi bir sorunuz veya geri bildiriminiz için lütfen bize ulaşın:
-- E-posta: support@carmate.app
-- Twitter: @CarMate
+- E-posta: support@OtoZ.app
+- Twitter: @OtoZ
 
 ---
-© 2024 CarMate. Tüm hakları saklıdır.
+© 2024 OtoZ. Tüm hakları saklıdır.
